@@ -3,6 +3,16 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../feature-tracker/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../../feature-tracker/ft-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../../feature-tracker/feature-service/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
