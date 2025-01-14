@@ -16,6 +16,7 @@
     <project name="notification-service" path="$PROJECT_DIR$/../../feature-tracker/notification-service">
       <vcs id="Git" remoteUrl="https://github.com/feature-tracker/notification-service.git" />
     </project>
+    <project name="react-ft-app" path="$PROJECT_DIR$/../../feature-tracker/react-ft-app" />
     <option name="workspace" value="true" />
   </component>
 </project>

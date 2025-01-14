@@ -3,6 +3,11 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../feature-tracker/api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../feature-tracker/docker-infra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../feature-tracker/feature-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../feature-tracker/ft-webapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../feature-tracker/notification-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../feature-tracker/react-ft-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
